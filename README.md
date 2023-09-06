@@ -12,5 +12,5 @@ Team members:
     - Education: 
     - Affiliation:
 - Ajeet Parmar:
-    - Education:  Rensselaer Polytechnic Institute, Air Force Institute of Technology
-    - Affiliation: U.S. Air Force
+    - Education: 
+    - Affiliation:
