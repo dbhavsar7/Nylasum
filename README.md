@@ -9,8 +9,8 @@ Team members:
     - Education: 
     - Affiliation:
 - Zachary Fernandes:
-    - Education: 
-    - Affiliation:
+    - Education: Rensselaer Polytechnic Institute
+    - Affiliation: Rensselaer Polytechnic Institute
 - Ajeet Parmar:
     - Education: 
     - Affiliation:
