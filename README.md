@@ -1,5 +1,5 @@
-The primary objective of this project is to create an extension to a standard email interface (ex: gmail, Outlook, etc.) 
-which can summarize the email contents using either GPT-3 or Google Bard
+The primary objective of this project is to create an extension to a standard email interface (ex: Gmail, Outlook, etc.) 
+which can summarize the email contents using LLaMa 2
 
 Team members: 
 - Matthew Bonnecaze:
