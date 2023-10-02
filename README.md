@@ -2,7 +2,7 @@ This project involves a tool with Nylas using Artificial Intelligence where an e
 of a tweet, allowing one to tweet email summaries with a twitter developer account
 =======
 The primary objective of this project is to create an extension to a standard email interface (ex: Gmail, Outlook, etc.) 
-which can summarize the email contents using LLaMa 2
+which can summarize the email contents using LLaMa 2.
 
 How to Run Project:
 1. Open the notebook in Colab (either through the provided file on this repository or linked [here](https://colab.research.google.com/drive/1wDfueNLpTSybKaHytgBx9R7A4MYOL6at?usp=sharing) - if using the link, make a copy of the notebook for your own instance)
