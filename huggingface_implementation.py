@@ -6,5 +6,7 @@ from huggingface_hub import notebook_login
 #  password: Albany518!?!
 # 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
 
-notebook_login(target= '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')
+notebook_login()
 # notebook_login('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')
+
+
