@@ -22,9 +22,9 @@ Team members:
     - Role: Database Organizer
     - Education: Rensselaer Polytechnic Institute
     - Affiliation: Velan Studios
-- Dhruv Bhavsar:
+- Drew Bhavsar:
     - Consultant, Systems Analyst
-    - Education: Hudson Valley Community College, University of Albany
+    - Education: Hudson Valley Community College, University at Albany (SUNY)
     - Affiliation: Mass General Brigham
 
 Video Demonstration: [YouTube](https://youtu.be/rhO6DKrfKj8?si=-SHfPvJfYeQF2Xqw)
